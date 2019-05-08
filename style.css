@@ -11,8 +11,12 @@ body{
 			background-position: center;
 			background-size: cover;
 		}
-		.overlay{
-			background-color: rgba(77, 81, 214, 0.6);
-			height: 600px;  
+.overlay{
+	background-color: rgba(77, 81, 214, 0.6);
+	height: 600px;  
 
-		}
+}
+
+.navbar-brand{
+	font-size: 30px !important;
+}
