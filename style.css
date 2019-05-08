@@ -1,0 +1,17 @@
+body{
+	overflow: hidden;
+	margin: 0;
+	box-sizing: border-box;
+}
+.images{
+			background-image: url(images/cv11.jpg);
+			height: 700px;
+			background-repeat: no-repeat;
+			background-position: center;
+			background-size: cover;
+		}
+		.overlay{
+			background-color: rgba(77, 81, 214, 0.6);
+			height: 700px;  
+
+		}
