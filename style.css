@@ -3,6 +3,12 @@ body{
 	margin: 0;
 	box-sizing: border-box;
 	font-family: 'Bitter', serif;
+	width: 100%;
+}
+
+section{
+	/*width: 10%;*/
+	overflow: hidden;
 }
 .images{
 			background-image: url(images/cv11.jpg);
@@ -40,4 +46,12 @@ body{
 .float-rt{
 	margin-left: 150px;
 	margin-bottom: 50px;
+}
+
+.video{
+	font-size: 40px;
+}
+
+.video span{
+	font-size: 20px;
 }
