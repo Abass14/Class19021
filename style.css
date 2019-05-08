@@ -20,3 +20,8 @@ body{
 .navbar-brand{
 	font-size: 30px !important;
 }
+
+.text{
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
