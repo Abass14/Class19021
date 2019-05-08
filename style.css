@@ -2,6 +2,7 @@ body{
 	overflow: hidden;
 	margin: 0;
 	box-sizing: border-box;
+	font-family: 'Bitter', serif;
 }
 .images{
 			background-image: url(images/cv11.jpg);
